@@ -140,7 +140,7 @@ git branch --list -a # To see all branches
 git diff origin/picoquic-draft-17 origin/quic-prague
 ```
 
-The branch `main` is up to date with the version 34 of the QUIC specification, more precisely it corresponds to the commit `ad5b201db3975e4fc66677aa3c973a7f7ca6cfb8` of the `private-octopus` repository. 
+The branch `xp-legit` is up to date with the version 34 of the QUIC specification, more precisely it corresponds to the commit `77d3b8628a3d2bf2368ba4288a21c4ed8b121c6e` of the `private-octopus` repository. 
 
  
  
