@@ -128,7 +128,7 @@ The previous version, draft-16, can be tested by downloading from Github the cod
 commit `5370eaadbf3e138dc9319a742488edccf40b5a12`, dated `Wed Dec 19 22:07:48 2018 -0800`.
 
 
-# Note about this fork (`buzzrage/picoquic-draft-17`)
+# Note about this fork (`buzzrage/picoquic`)
 
 This fork is up to date with draft-17 of QUIC specification. It corresponds to the commit `7b868919a44f564da2e9292656d5d162da19c751` of the L4STeam that implements the Prague congetion control in QUIC. This branch is here as a reference point to easily see changes between **this branch** (baseline) and other features implemented in **other branches** (such as experimental network attacks).
 
